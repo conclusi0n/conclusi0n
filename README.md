@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/birajlamsal" target="blank"><img src="https://img.shields.io/twitter/follow/birajlamsal?logo=twitter&style=for-the-badge" alt="birajlamsal" /></a> </p>
 
-- 🔭 I’m currently working on **RasberyPie**
+- 🔭 I’m currently working on **Raspberry Pi**
 
 - 👯 I’m looking to collaborate on **Network security**
 
