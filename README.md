@@ -1,7 +1,8 @@
 <p align="center"> <img src="https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064" /> </p>
+
 <h1 align="center">Hi 👋, I'm Biraj Lamsal</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-
+![Discord](https://discord.c99.nl/widget/theme-3/489831100915515433.png) 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/birajlamsal" target="blank"><img src="https://img.shields.io/twitter/follow/birajlamsal?logo=twitter&style=for-the-badge" alt="birajlamsal" /></a> </p>
