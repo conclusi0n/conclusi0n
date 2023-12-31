@@ -4,9 +4,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=conclusi0n&show_icons=true&locale=en" alt="conclusi0n" />
 </p>
 
-<h1 align="right">Hi 👋, I'm Biraj Lamsal</h1>
+<h1 align="center">Hi 👋, I'm Biraj Lamsal</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-![Discord](https://discord.c99.nl/widget/theme-2/_conclusi0n.png) 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <img align="left" alt="Coding" width="400" src="https://discord.c99.nl/widget/theme-2/_conclusi0n.png">
