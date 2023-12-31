@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Biraj Lamsal</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-![Discord](https://discord.c99.nl/widget/theme-3/489831100915515433.png) 
+![Discord](https://discord.c99.nl/widget/theme-2/_conclusi0n.png) 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/birajlamsal" target="blank"><img src="https://img.shields.io/twitter/follow/birajlamsal?logo=twitter&style=for-the-badge" alt="birajlamsal" /></a> </p>
