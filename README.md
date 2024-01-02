@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/birajlamsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="birajlamsal" height="30" width="40" /></a>
-<a href="https://fb.com/biraj lamsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biraj lamsal" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100089831239581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biraj lamsal" height="30" width="40" /></a>
 <a href="https://instagram.com/birajlamsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="birajlamsal" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/KzM7JtYT6e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/KzM7JtYT6e" height="30" width="40" /></a>
 </p>
