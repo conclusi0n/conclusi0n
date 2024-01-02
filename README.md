@@ -8,7 +8,7 @@
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<img align="left" alt="Discord status" width="400" src="https://discord.c99.nl/widget/theme-2/_conclusi0n.png">
+<img align="left" alt="Discord status" width="400" src="https://discord.c99.nl/widget/theme-3/1019140706138329120.png">
 <p align="left"> <a href="https://twitter.com/birajlamsal" target="blank"><img src="https://img.shields.io/twitter/follow/birajlamsal?logo=twitter&style=for-the-badge" alt="birajlamsal" /></a> </p>
 
 - 🔭 I’m currently working on **Raspberry Pi**
